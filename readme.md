@@ -36,7 +36,7 @@ An example of distilling knowledges from 3 pre-trained ResNet-34 models into a R
 
 ## More Implementations
 
-Please yourself to run more implementations with configurations in the `scripts` folder.
+Run more implementations with configurations in the `scripts` folder.
 
 
 
